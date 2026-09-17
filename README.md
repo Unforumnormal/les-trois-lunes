@@ -2,14 +2,14 @@
 
 [Jouer dans le navigateur](https://unforumnormal.github.io/les-trois-lunes/)
 
-Trois runes. Une meute. Une issue. Traversez autant de nuits que possible.
+Trois runes invoquent le Cerf creux. Évitez sa charge et ses racines, profitez de son point faible, puis rejoignez le portail. Six nuits pour libérer le bois, avec une vraie victoire finale.
 
-Chaque rune réveille la forêt. À la troisième, la chasse commence : rejoignez le portail ! Dès la nuit 2, un coffre facultatif attire des loups mais offre un second don si vous sortez vivant. Tir multiple, flèches perçantes et givre se combinent. Une relance par nuit permet de changer les dons proposés.
+Choisissez vos dons : tir multiple, flèches perçantes, givre, cadence, cœurs… Les effets se combinent. Un coffre facultatif offre un deuxième don, mais il faut l’ouvrir avant d’invoquer le gardien et ressortir vivant. Les potions sont limitées ; battre un gardien permet de se reposer.
 
 - Cliquez pour avancer ; l’arc tire automatiquement.
 - **Espace** : esquive. **A** : souffle. **E** : potion.
-- Les boutons restent cliquables. **Échap** : pause.
+- Boutons cliquables à la souris. **Échap** : pause.
 
-Images créées avec un outil de génération. Musique et bruitages originaux synthétisés dans le navigateur. Aucun son ni contenu de World of Warcraft.
+Images créées avec un outil de génération. Musique et bruitages originaux synthétisés dans le navigateur. Aucun contenu de World of Warcraft.
 
-Ce dépôt distribue uniquement le jeu compilé et ses ressources, sans les sources TypeScript ni les documents de développement.
+Ce dépôt distribue uniquement le jeu compilé et ses ressources, sans les sources TypeScript ni les documents de développement. Le JavaScript compilé reste nécessaire au navigateur.
