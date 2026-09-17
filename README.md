@@ -4,7 +4,9 @@
 
 Trois runes invoquent le Cerf creux. Évitez sa charge et ses racines, profitez de son point faible, puis rejoignez le portail. Six nuits pour libérer le bois, avec une vraie victoire finale.
 
-Choisissez vos dons : tir multiple, flèches perçantes, givre, cadence, cœurs… Les effets se combinent. Un coffre facultatif offre un deuxième don, mais il faut l’ouvrir avant d’invoquer le gardien et ressortir vivant. Les potions sont limitées ; battre un gardien permet de se reposer.
+Choisissez vos dons : tir multiple, flèches perçantes, givre, cadence, cœurs… Les effets se combinent. Un coffre facultatif offre un deuxième choix, mais il faut l’ouvrir avant d’invoquer le gardien et ressortir vivant.
+
+Les potions ne se rechargent plus gratuitement entre les nuits. Choisir des **provisions** à la place d’un don rend jusqu’à deux potions ; battre le gardien restaure les cœurs. Les attaques de plusieurs loups peuvent enlever deux cœurs sur un même impact. Une lisière visible délimite les sentiers praticables.
 
 - Cliquez pour avancer ; l’arc tire automatiquement.
 - **Espace** : esquive. **A** : souffle. **E** : potion.
